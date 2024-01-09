@@ -8,4 +8,4 @@ sidebar_position: 5
 ![image](scriptexe.png)
 #### 3 - enter your key
 ![image](keypng.png)
-
+#### if you don't have a key get one for free from the discord server
