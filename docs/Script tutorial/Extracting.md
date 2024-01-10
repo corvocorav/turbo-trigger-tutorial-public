@@ -8,7 +8,7 @@ sidebar_position: 4
 #### 3 - choose "**extract here**"
 
 ![image](extracthere.png)
-#### 4 - enter the password 123
+## 4 - enter the password 123
 <br/>
 
 #### after that you will have the folder with the script in the same place as the Rar 
