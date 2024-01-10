@@ -11,8 +11,8 @@ sidebar_position: 4
 ## 4 - enter the password 123
 <br/>
 
-#### after that you will have the folder with the script in the same place as the Rar 
+[comment]: <> (#### after that you will have the folder with the script in the same place as the Rar )
 
 
 
-![image](scriptandrar.png)
+[comment]: <> (![image](scriptandrar.png))
