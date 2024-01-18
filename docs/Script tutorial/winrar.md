@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'getting Winrar'
+sidebar_label: 'Getting WinRAR'
 sidebar_position: 3
 ---
 
